@@ -1,6 +1,6 @@
 # PROGRAMACION-ORIENTADA-A-OBJETOS-II
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ce300ad4-812d-42f8-9050-fde45afd2d5a" width="650"/>
+  <img src="https://es.pinterest.com/pin/206884176628414413/" width="650"/>
 </p>
 
 
