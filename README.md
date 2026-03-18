@@ -1,9 +1,5 @@
-# PROGRAMACION-ORIENTADA-A-OBJETOS-II
+# Sesiones de clases
 <p align="center">
-  <img src="https://es.pinterest.com/pin/206884176628414413/" width="650"/>
-</p>
-
-
-<p align="center">
- Repositorio creado con el objetivo de subir seciones de clases, ejercicios y tareas
+  <img src="https://github.com/user-attachments/assets/e4f8d91d-b412-4f4e-98a9-1327f5db47ab" width="650"/>
+<p
 
