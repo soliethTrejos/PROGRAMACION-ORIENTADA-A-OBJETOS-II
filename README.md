@@ -1,11 +1,10 @@
 # PROGRAMACION-ORIENTADA-A-OBJETOS-II
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b4/17/8c/b4178c813a06afc3c7fc179bdf3f51bc.gif" width="650"/>
+  <img src="https://github.com/user-attachments/assets/ce300ad4-812d-42f8-9050-fde45afd2d5a" width="650"/>
 </p>
 
 <h1 align="center">Programación Orientada a Objetos II</h1>
 
 <p align="center">
 Repositorio con ejercicios, prácticas y proyectos desarrollados durante el curso.
-</p>
 
