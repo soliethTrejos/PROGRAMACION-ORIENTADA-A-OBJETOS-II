@@ -5,5 +5,5 @@
 
 
 <p align="center">
-Repositorio creado con el objetivo de subir seciones de clases, ejrcicios y tareas
+ Repositorio creado con el objetivo de subir seciones de clases, ejercicios y tareas
 
