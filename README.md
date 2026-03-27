@@ -1,9 +1,6 @@
-# PROGRAMACION-ORIENTADA-A-OBJETOS-II
+# Tareas Formativas 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ce300ad4-812d-42f8-9050-fde45afd2d5a" width="650"/>
-</p>
+  <img src="https://github.com/user-attachments/assets/bc853367-13d4-451d-a43a-0a0b7f69b9e1" width="650"/>
+<p
 
-
-<p align="center">
- Repositorio creado con el objetivo de subir seciones de clases, ejercicios y tareas
-
+  
